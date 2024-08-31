@@ -3,7 +3,7 @@ name = "curse"
 version = "0.1.0"
 edition = "2021"
 description = "A Cuda Toolkit for Rust"
-license = "GPL"
+license = "GPL-2.0"
 repository = "https://github.com/RylanYancey/curse"
 
 [dependencies]
