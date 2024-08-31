@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "A Cuda Toolkit for Rust"
 license = "GPL"
+repository = "https://github.com/RylanYancey/curse"
 
 [dependencies]
 num-traits = "0.2.19"
