@@ -1,0 +1,12 @@
+[package]
+name = "curse"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-traits = "0.2.19"
+thiserror = "1.0.63"
+
+[dependencies.half]
+version = "2.4.1"
+features = ["num-traits"]
